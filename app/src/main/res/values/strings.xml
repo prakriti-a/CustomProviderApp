@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Custom Content Provider</string>
+    <string name="db_title">Student Info Database</string>
+    <string name="add_data">Add Student Data</string>
+    <string name="retrieve_data">Retrieve Student Data</string>
+    <string name="enter_class">Enter class here</string>
+    <string name="enter_name">Enter name here</string>
+    <string name="empty_fields">Please enter data to be added</string>
+</resources>
